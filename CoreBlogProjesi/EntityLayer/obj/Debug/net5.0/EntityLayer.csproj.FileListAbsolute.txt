@@ -1,0 +1,24 @@
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll

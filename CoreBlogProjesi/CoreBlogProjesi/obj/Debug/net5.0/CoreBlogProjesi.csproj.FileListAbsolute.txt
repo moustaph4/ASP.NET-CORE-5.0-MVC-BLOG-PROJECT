@@ -1,0 +1,342 @@
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\appsettings.json
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.exe
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.deps.json
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.runtimeconfig.json
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.runtimeconfig.dev.json
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.Views.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.Views.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.RazorAssemblyInfo.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.RazorAssemblyInfo.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\scopedcss\bundle\CoreBlogProjesi.styles.css
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\staticwebassets\CoreBlogProjesi.StaticWebAssets.Manifest.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\staticwebassets\CoreBlogProjesi.StaticWebAssets.Pack.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\staticwebassets\msbuild.CoreBlogProjesi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\staticwebassets\msbuild.build.CoreBlogProjesi.props
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CoreBlogProjesi.props
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CoreBlogProjesi.props
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.TagHelpers.input.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.TagHelpers.output.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.RazorCoreGenerate.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.RazorTargetAssemblyInfo.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.RazorTargetAssemblyInfo.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.Views.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\refint\CoreBlogProjesi.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\ref\CoreBlogProjesi.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.csproj.CopyComplete
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Home\Test.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentList\Default.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterLastBlogs\Default.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.csproj.AssemblyReference.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.GeneratedMSBuildEditorConfig.editorconfig
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.AssemblyInfoInputs.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.AssemblyInfo.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.csproj.CoreCompileInputs.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.MvcApplicationPartsAssemblyInfo.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.MvcApplicationPartsAssemblyInfo.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.RazorAssemblyInfo.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.RazorAssemblyInfo.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\refint\CoreBlogProjesi.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\appsettings.Development.json
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\appsettings.json
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.exe
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.deps.json
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.runtimeconfig.json
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.runtimeconfig.dev.json
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.Views.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\CoreBlogProjesi.Views.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\FluentValidation.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Humanizer.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\BusinessLayer.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\DataAccessLayer.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\EntityLayer.dll
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\BusinessLayer.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\bin\Debug\net5.0\EntityLayer.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\scopedcss\bundle\CoreBlogProjesi.styles.css
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\staticwebassets\CoreBlogProjesi.StaticWebAssets.Manifest.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\staticwebassets\CoreBlogProjesi.StaticWebAssets.Pack.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\staticwebassets\msbuild.CoreBlogProjesi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\staticwebassets\msbuild.build.CoreBlogProjesi.props
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CoreBlogProjesi.props
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CoreBlogProjesi.props
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.TagHelpers.input.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.TagHelpers.output.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.RazorCoreGenerate.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Home\Test.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentList\Default.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterLastBlogs\Default.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.RazorTargetAssemblyInfo.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.RazorTargetAssemblyInfo.cs
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.Views.pdb
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.csproj.CopyComplete
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\CoreBlogProjesi.genruntimeconfig.cache
+E:\ARŞİV\PROJELERİM\ASP.NET MVC CORE BLOG PROJESİ\CoreBlogProjesi\CoreBlogProjesi\obj\Debug\net5.0\ref\CoreBlogProjesi.dll
